@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent To-Do",
+  "description": "AI-powered productivity, life-balance coaching, and habit planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
